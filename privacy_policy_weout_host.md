@@ -55,5 +55,5 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## 9. Contact Us
 If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at:
-- **Email:** support@waywisetech.com
+- **Email:** tech.support@weout.ca
 - **Website:** https://api.weout.ca
